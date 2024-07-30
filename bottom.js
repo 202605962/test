@@ -22,4 +22,4 @@ window.cb22 = function(data) {
 
 new VConsole();
 
-console.log('commit: 去掉默认发');
+console.log('commit: 添加default调用');
